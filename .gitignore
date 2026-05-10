@@ -1,0 +1,9 @@
+# Claude Code internal files
+backups/
+sessions/
+shell-snapshots/
+projects/
+*.jsonl
+
+# Local settings (contains personal paths)
+.claude/settings.local.json
